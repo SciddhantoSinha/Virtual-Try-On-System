@@ -1,0 +1,51 @@
+Image,Height (cm),Weight (kg),Chest (cm),Arm Length (cm),Leg Length (cm),Waist Circumference (cm),Posture
+person1.jpg,150,50,80,50,80.0,70.0,Standing Straight
+person2.jpg,152,53,82,53,81.5,72.5,Arms Folded
+person3.jpg,154,56,84,56,83.0,75.0,Hands-on-Hips
+person4.jpg,156,59,86,59,84.5,77.5,Sitting
+person5.jpg,158,62,88,62,86.0,80.0,Standing Straight
+person6.jpg,160,65,90,50,87.5,82.5,Arms Folded
+person7.jpg,162,68,92,53,89.0,85.0,Hands-on-Hips
+person8.jpg,164,71,94,56,90.5,70.0,Sitting
+person9.jpg,166,74,80,59,92.0,72.5,Standing Straight
+person10.jpg,168,77,82,62,93.5,75.0,Arms Folded
+person11.jpg,150,80,84,50,80.0,77.5,Hands-on-Hips
+person12.jpg,152,83,86,53,81.5,80.0,Sitting
+person13.jpg,154,86,88,56,83.0,82.5,Standing Straight
+person14.jpg,156,89,90,59,84.5,85.0,Arms Folded
+person15.jpg,158,92,92,62,86.0,70.0,Hands-on-Hips
+person16.jpg,160,50,94,50,87.5,72.5,Sitting
+person17.jpg,162,53,80,53,89.0,75.0,Standing Straight
+person18.jpg,164,56,82,56,90.5,77.5,Arms Folded
+person19.jpg,166,59,84,59,92.0,80.0,Hands-on-Hips
+person20.jpg,168,62,86,62,93.5,82.5,Sitting
+person21.jpg,150,65,88,50,80.0,85.0,Standing Straight
+person22.jpg,152,68,90,53,81.5,70.0,Arms Folded
+person23.jpg,154,71,92,56,83.0,72.5,Hands-on-Hips
+person24.jpg,156,74,94,59,84.5,75.0,Sitting
+person25.jpg,158,77,80,62,86.0,77.5,Standing Straight
+person26.jpg,160,80,82,50,87.5,80.0,Arms Folded
+person27.jpg,162,83,84,53,89.0,82.5,Hands-on-Hips
+person28.jpg,164,86,86,56,90.5,85.0,Sitting
+person29.jpg,166,89,88,59,92.0,70.0,Standing Straight
+person30.jpg,168,92,90,62,93.5,72.5,Arms Folded
+person31.jpg,150,50,92,50,80.0,75.0,Hands-on-Hips
+person32.jpg,152,53,94,53,81.5,77.5,Sitting
+person33.jpg,154,56,80,56,83.0,80.0,Standing Straight
+person34.jpg,156,59,82,59,84.5,82.5,Arms Folded
+person35.jpg,158,62,84,62,86.0,85.0,Hands-on-Hips
+person36.jpg,160,65,86,50,87.5,70.0,Sitting
+person37.jpg,162,68,88,53,89.0,72.5,Standing Straight
+person38.jpg,164,71,90,56,90.5,75.0,Arms Folded
+person39.jpg,166,74,92,59,92.0,77.5,Hands-on-Hips
+person40.jpg,168,77,94,62,93.5,80.0,Sitting
+person41.jpg,150,80,80,50,80.0,82.5,Standing Straight
+person42.jpg,152,83,82,53,81.5,85.0,Arms Folded
+person43.jpg,154,86,84,56,83.0,70.0,Hands-on-Hips
+person44.jpg,156,89,86,59,84.5,72.5,Sitting
+person45.jpg,158,92,88,62,86.0,75.0,Standing Straight
+person46.jpg,160,50,90,50,87.5,77.5,Arms Folded
+person47.jpg,162,53,92,53,89.0,80.0,Hands-on-Hips
+person48.jpg,164,56,94,56,90.5,82.5,Sitting
+person49.jpg,166,59,80,59,92.0,85.0,Standing Straight
+person50.jpg,168,62,82,62,93.5,70.0,Arms Folded

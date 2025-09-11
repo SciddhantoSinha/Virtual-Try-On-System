@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Try-On</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="/static/js/ai_script.js" defer></script>
+    <script src="/static/js/ar_script.js" defer></script>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <h1>Virtual Try-On</h1>
+    <div>
+        <h2>AI Predictions</h2>
+        <form id="uploadForm">
+            <input type="file" id="fileInput" name="file" accept="image/*">
+            <button type="button" id="predictBtn">Predict</button>
+        </form>
+        <div id="predictionOutput"></div>
+    </div>
+    <div>
+        <h2>AR Visualization</h2>
+        <div id="arContainer"></div>
+    </div>
+</body>
+</html>

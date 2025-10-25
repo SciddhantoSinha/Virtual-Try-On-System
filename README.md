@@ -1,4 +1,4 @@
-# Virtual Try-On System using AI and AR
+# Virtual Try-On System 
 
 ## 📌 Overview
 A Virtual Outfit Try-On system that uses AI to generate accurate 3D body models 
